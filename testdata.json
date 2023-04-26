@@ -1,0 +1,216 @@
+
+
+{
+    "feed": [
+        {
+            "feedId": 1,
+            "userId": 13423,
+            "user": 
+                {
+                    "userId": 13423,
+                    "username": "alinayu",
+                    "fname": "Alina",
+                    "lname": "Yu",
+                    "picture": "avatar0",
+                    "pictureBgColor": "#2B66FF"
+                }
+            ,
+            "title": "You Season 4 Ep3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "comments": [
+                { 
+                    "feedId": 1,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                },
+               { 
+                    "feedId": 1,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                }
+            ],
+            "date": "1h",
+            "likes": 2034,
+            "rating": 2,
+            "tags": 
+                {
+                    "feedId": 1,
+                   "service": "Netflix",
+                    "title": "You",
+                    "season": "Season 4",
+                    "episode": "Episode 3",
+                    "movie": false
+
+                } 
+        },
+         {
+            "feedId": 2,
+            "userId": 23423,
+            "user": 
+                {
+                    "userId": 23423,
+                    "username": "marieeeh",
+                    "fname": "Marie",
+                    "lname": "H.",
+                    "picture": "avatar1",
+                    "pictureBgColor": "#7299FF"
+                },
+            "title": "House of the Dragon updates",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "comments": [
+                { 
+                    "feedId": 2,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                },
+               { 
+                    "feedId": 2,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                }
+            ],
+            "date": "2h",
+            "likes": 2034,
+            "rating": 3,
+            "tags": 
+                {
+                    "feedId": 2,
+                   "service": "HBO",
+                    "title": "House of the Dragon",
+                    "season": "Season 1",
+                    "episode": "Episode 2",
+                    "movie": false
+
+                } 
+        }, {
+            "feedId": 3,
+            "userId": 23435,
+            "user": 
+                {
+                    "userId": 23435,
+                    "username": "markwatts123",
+                    "fname": "Mark",
+                    "lname": "Watts",
+                    "picture": "avatar2",
+                    "pictureBgColor": "#9173B7"
+                }
+            ,
+            "title": "Rosaline thoughts",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "comments": [
+                { 
+                    "feedId": 3,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                },
+               { 
+                    "feedId": 3,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                }
+            ],
+            "date": "2h",
+            "likes": 2034,
+            "rating": 2,
+            "tags": 
+                {
+                    "feedId": 1,
+                   "service": "Hulu",
+                    "title": "Rosaline",
+                    "season": "",
+                    "episode": "",
+                    "movie": true
+                } 
+        },
+         {
+            "feedId": 4,
+            "userId": 3440409234,
+            "user": 
+                {
+                    "userId": 40409,
+                    "username": "iloveapples1",
+                    "fname": "Steve",
+                    "lname": "J.",
+                    "picture": "avatar3",
+                    "pictureBgColor": "#404141"
+                },
+            "title": "Sing 2 Review",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "comments": [
+                { 
+                    "feedId": 4,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                },
+               { 
+                    "feedId": 4,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                }
+            ],
+            "date": "4h",
+            "likes": 2034,
+            "rating": 4,
+            "tags": 
+                {
+                    "feedId": 4,
+                   "service": "Netflix",
+                    "title": "Sing 2",
+                    "season": "",
+                    "episode": "",
+                    "movie": true
+
+                } 
+        },{
+            "feedId": 5,
+            "userId": 345435,
+            "user": 
+                {
+                    "userId": 345435,
+                    "username": "albert_reviews",
+                    "fname": "Albert",
+                    "lname": "L.",
+                    "picture": "avatar4",
+                    "pictureBgColor": "#F18F8F"
+
+                },
+            "title": "New Girl is !!",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "comments": [
+                { 
+                    "feedId": 5,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                },
+               { 
+                    "feedId": 5,
+                    "username": "username",
+                    "comment": "comment", 
+                    "date": "date" 
+                }
+            ],
+            "date": "5h",
+            "likes": 2034,
+            "rating": 4,
+            "tags": 
+                {
+                    "feedId": 5,
+                   "service": "Netflix",
+                    "title": "New Girl",
+                    "season": "Season 3",
+                    "episode": "Episode 9",
+                    "movie": false
+
+                } 
+        }
+    ]   
+}
